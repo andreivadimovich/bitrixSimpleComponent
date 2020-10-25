@@ -1,7 +1,7 @@
 <b>Компонент для связи новостей и разделов каталога товаров</b>
 
 <a href="https://www.1c-bitrix.ru/products/cms/requirements.php" target="_blank">Системные требования</a>: 
-- Apache 1.3, PHP 7,  MySQL 5.6
+- Apache 1.3, PHP 7.2,  MySQL 5.6
 - <a href="https://www.1c-bitrix.ru/download/standard_encode.zip">1С-Битрикс: 
 Управление сайтом» редакции «Стандарт», решение «Корпоративный сайт производственной 
 компании»</a>
